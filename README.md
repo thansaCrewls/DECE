@@ -16,7 +16,7 @@ This is a simple Discord bot script that allows you to send messages to multiple
 
 1. **Clone the repository** (or download the script):
     ```bash
-    git clone [https://github.com/recitativonika/Discord-auto-chat-js.git](https://github.com/thansaCrewls/DECE)
+    git clone https://github.com/thansaCrewls/DECE
     cd DECE
     ```
 
