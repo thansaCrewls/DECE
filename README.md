@@ -62,28 +62,3 @@ This is a simple Discord bot script that allows you to send messages to multiple
 
 3. **Customize your configuration**:
     - You can modify the `config.yaml` file to add more tokens, channel IDs, and adjust delays as needed.
-
-## Example `chat.txt`
-
-Your `chat.txt` file might look like this:
-
-   ```
-   Hello there!
-   How's it going?
-   This is a random message.
-   Have a great day!
-   ```
-
-## Notes
-
-- Make sure your bot is invited to the channels you want to send messages to.
-- Ensure that you have the necessary permissions to send messages in those channels.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-- Inspired by the Discord API documentation.
-- Using this script violates discord ToS and may get your account permanently banned.
